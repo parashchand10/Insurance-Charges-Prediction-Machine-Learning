@@ -26,14 +26,6 @@ The dataset contains the following features:
 6. sex → Gender
 7. charges → Insurance cost (Target Variable)
 
---
-Data Preprocessing
-
-1. Handled categorical variables using encoding
-2. Applied feature scaling (Standardization)
-3. Checked for missing values and outliers
-4. Created new features like BMI category
-
 ---
 Model Used
 
