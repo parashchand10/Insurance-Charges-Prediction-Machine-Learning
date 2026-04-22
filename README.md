@@ -6,10 +6,10 @@ This project aims to predict medical insurance charges based on various personal
 
 ---
 Objectives
-Build a predictive model for insurance charges
-Analyze feature impact on medical expenses
-Improve model performance using preprocessing and feature engineering
-Evaluate model using appropriate regression metrics
+1. Build a predictive model for insurance charges
+2. Analyze feature impact on medical expenses
+3. Improve model performance using preprocessing and feature engineering
+4. Evaluate model using appropriate regression metrics
 
 ---
 Dataset Description
