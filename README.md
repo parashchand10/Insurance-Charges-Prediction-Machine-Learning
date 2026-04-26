@@ -37,7 +37,7 @@ Linear Regression
 The model was evaluated using:
 
 1. R² Score → Measures how well the model explains variance
-2. Mean Absolute Error (MAE) → Average prediction error
+2. Mean Square Error (MSE) → Average prediction error
 
 ---
 ### How to Use
