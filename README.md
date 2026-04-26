@@ -14,24 +14,6 @@ This project aims to predict medical insurance charges based on various personal
 4. Evaluate model using appropriate regression metrics
 
 ---
-### Dataset Description
-
-The dataset contains the following features:
-
-1. age → Age of the individual
-2. bmi → Body Mass Index
-3. children → Number of dependents
-4. smoker → Smoking status (0 = No, 1 = Yes)
-5. region → Residential region
-6. sex → Gender
-7. charges → Insurance cost (Target Variable)
-
----
-### Model Used
-
-Linear Regression
-
----
 ### Model Evaluation
 
 The model was evaluated using:
