@@ -1,4 +1,4 @@
-# Insurance-Charges-Prediction-Machine-Learning
+# Insurance-Charges-Prediction
 ---
 
 ### Project Overview
